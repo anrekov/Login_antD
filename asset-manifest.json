@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Login_antD/static/css/main.b4d5f535.chunk.css",
+    "main.js": "/Login_antD/static/js/main.4e501da3.chunk.js",
+    "main.js.map": "/Login_antD/static/js/main.4e501da3.chunk.js.map",
+    "runtime-main.js": "/Login_antD/static/js/runtime-main.3ff83d8c.js",
+    "runtime-main.js.map": "/Login_antD/static/js/runtime-main.3ff83d8c.js.map",
+    "static/css/2.015dc0ab.chunk.css": "/Login_antD/static/css/2.015dc0ab.chunk.css",
+    "static/js/2.7e1fc427.chunk.js": "/Login_antD/static/js/2.7e1fc427.chunk.js",
+    "static/js/2.7e1fc427.chunk.js.map": "/Login_antD/static/js/2.7e1fc427.chunk.js.map",
+    "index.html": "/Login_antD/index.html",
+    "static/css/2.015dc0ab.chunk.css.map": "/Login_antD/static/css/2.015dc0ab.chunk.css.map",
+    "static/css/main.b4d5f535.chunk.css.map": "/Login_antD/static/css/main.b4d5f535.chunk.css.map",
+    "static/js/2.7e1fc427.chunk.js.LICENSE.txt": "/Login_antD/static/js/2.7e1fc427.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ff83d8c.js",
+    "static/css/2.015dc0ab.chunk.css",
+    "static/js/2.7e1fc427.chunk.js",
+    "static/css/main.b4d5f535.chunk.css",
+    "static/js/main.4e501da3.chunk.js"
+  ]
+}
